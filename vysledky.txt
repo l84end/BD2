@@ -1,0 +1,4 @@
+sk1 -> BD je nej!
+sk2 -> BD 2022
+sk3 -> BD radeji ne
+sk4 -> BD si nejlepsi
